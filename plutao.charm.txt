@@ -1,0 +1,11 @@
+................................................PLUTÃO.................................................
+ Plutão, não mais considerado planeta, hoje é planeta anão, por seu pequeno tamanho, assim\n"
+ também como urano, plutão esta 'deitado' em sua orbita, Plutão apesar de pequeno possui\n"
+ 5 luas, com sua coloração variando entre \033[1;30mpreto\033[m, laranja escuro e branco. plutão é rochoso\n"
+ assim tendo sua crosta composta por nitrogênio congelado, manto água congelada e seu núcleo\n"
+ por uma densa rocha sólida.
+ Sua massa equivale a: 1.31x10²²KG
+ Distância média do sol: 5.9B KM\033
+ Gravidade na superfice: 0.66m/s²
+ Periodo de rotação [seu eixo]: 6.4 Dias
+ Período de revolução [orbita planetária]: 248 anos
